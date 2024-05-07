@@ -1,0 +1,1239 @@
+{
+    "quiz": [
+      {
+        "question": "Who was the first President of the United States?",
+        "choices": ["Thomas Jefferson", "George Washington", "John Adams", "Abraham Lincoln"],
+        "correct_answer": "George Washington"
+      },
+      {
+        "question": "Which President signed the Emancipation Proclamation?",
+        "choices": ["Andrew Johnson", "Abraham Lincoln", "Ulysses S. Grant", "James Buchanan"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who was the President during the Great Depression and World War II?",
+        "choices": ["Franklin D. Roosevelt", "Herbert Hoover", "Harry S. Truman", "Dwight D. Eisenhower"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the first President to be impeached?",
+        "choices": ["Richard Nixon", "Andrew Johnson", "Bill Clinton", "Donald Trump"],
+        "correct_answer": "Andrew Johnson"
+      },
+      {
+        "question": "Which President is known for the 'I Have a Dream' speech?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Martin Luther King Jr.", "Barack Obama"],
+        "correct_answer": "Martin Luther King Jr."
+      },
+      {
+        "question": "Who is the 16th President of the United States?",
+        "choices": ["Andrew Johnson", "John F. Kennedy", "Abraham Lincoln", "Ulysses S. Grant"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Which President served as both the 22nd and 24th President?",
+        "choices": ["Franklin D. Roosevelt", "Theodore Roosevelt", "Grover Cleveland", "Woodrow Wilson"],
+        "correct_answer": "Grover Cleveland"
+      },
+      {
+        "question": "Who was the President during the Cuban Missile Crisis?",
+        "choices": ["Dwight D. Eisenhower", "Harry S. Truman","John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'New Deal' policies to address the Great Depression?",
+        "choices": ["Herbert Hoover", "Franklin D. Roosevelt", "Calvin Coolidge", "Ronald Reagan"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the first President of the United States to be born in the 20th century?",
+        "choices": [ "Lyndon B. Johnson", "Richard Nixon", "Jimmy Carter","John F. Kennedy"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who is the only President to have been impeached twice?",
+        "choices": ["Bill Clinton", "Andrew Johnson", "Donald Trump", "Richard Nixon"],
+        "correct_answer": "Donald Trump"
+      },
+      {
+        "question": "Which President is famous for the 'Monroe Doctrine'?",
+        "choices": ["James Madison", "John Quincy Adams", "Andrew Jackson","James Monroe"],
+        "correct_answer": "James Monroe"
+      },
+      {
+        "question": "Who was the President during the Watergate scandal?",
+        "choices": ["Gerald Ford", "Jimmy Carter", "Richard Nixon", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President is known for the 'Great Society' programs?",
+        "choices": ["Lyndon B. Johnson", "John F. Kennedy", "Dwight D. Eisenhower", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who served as the President of the United States during the Civil War?",
+        "choices": [ "Andrew Johnson", "Ulysses S. Grant", "Abraham Lincoln","James Buchanan"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who was the President during the Louisiana Purchase?",
+        "choices": ["Thomas Jefferson", "James Madison", "John Quincy Adams", "Andrew Jackson"],
+        "correct_answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Which President is known for the 'Square Deal' and conservation efforts?",
+        "choices": [ "William Howard Taft", "Woodrow Wilson", "Theodore Roosevelt","Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the first President to be elected after the end of the Cold War?",
+        "choices": ["George H.W. Bush", "Bill Clinton", "Ronald Reagan", "George W. Bush"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President was the main author of the Declaration of Independence?",
+        "choices": ["John Adams", "Thomas Jefferson", "James Madison", "Benjamin Franklin"],
+        "correct_answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Which President was responsible for the establishment of the Environmental Protection Agency (EPA)?",
+        "choices": ["Jimmy Carter", "Gerald Ford", "Ronald Reagan","Richard Nixon"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion and the Cuban Missile Crisis?",
+        "choices": ["Lyndon B. Johnson", "Dwight D. Eisenhower", "John F. Kennedy", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Era of Good Feelings'?",
+        "choices": ["James Monroe", "John Quincy Adams", "Andrew Jackson", "James Madison"],
+        "correct_answer": "James Monroe"
+      },
+      {
+        "question": "Who was the first President to be elected from the Democratic Party?",
+        "choices": ["Martin Van Buren", "John Quincy Adams","Andrew Jackson", "James K. Polk"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Which President was in office during the construction of the Panama Canal?",
+        "choices": [ "William Howard Taft", "Woodrow Wilson", "Calvin Coolidge","Theodore Roosevelt"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the first President to appear on television?",
+        "choices": [ "Franklin D. Roosevelt", "Dwight D. Eisenhower", "Harry S. Truman","John F. Kennedy"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President signed the Civil Rights Act of 1964 into law?",
+        "choices": ["Lyndon B. Johnson", "John F. Kennedy", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the Apollo 11 moon landing?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Gerald Ford"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President was known for his 'Silent Cal' nickname and served in the 1920s?",
+        "choices": ["Calvin Coolidge", "Warren G. Harding", "Herbert Hoover", "Franklin D. Roosevelt"],
+        "correct_answer": "Calvin Coolidge"
+      },
+      {
+        "question": "Who was the first President to be assassinated?",
+        "choices": ["John F. Kennedy", "Abraham Lincoln", "James A. Garfield", "William McKinley"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Which President was known for his 'New Frontier' and 'Camelot' imagery?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the first President to be born in the 20th century?",
+        "choices": ["Jimmy Carter", "Ronald Reagan", "John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President was a former Hollywood actor before entering politics?",
+        "choices": ["Ronald Reagan", "Dwight D. Eisenhower", "John F. Kennedy", "Jimmy Carter"],
+        "correct_answer": "Ronald Reagan"
+      },
+      {
+        "question": "Who was the President during the Gulf War in 1991?",
+        "choices": ["George H.W. Bush", "Bill Clinton", "Ronald Reagan", "George W. Bush"],
+        "correct_answer": "George H.W. Bush"
+      },
+      {
+        "question": "Which President signed the Voting Rights Act of 1965 into law?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President served as the Commander-in-Chief during the War of 1812?",
+        "choices": ["Andrew Jackson", "John Quincy Adams", "James Monroe","James Madison"],
+        "correct_answer": "James Madison"
+      },
+      {
+        "question": "Who was the President responsible for the establishment of NASA?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President was nicknamed 'Old Hickory'?",
+        "choices": [ "Andrew Jackson", "Martin Van Buren", "John Tyler","Andrew Johnson"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the first President to be inaugurated in Washington D.C.?",
+        "choices": [ "John Adams", "James Madison","Thomas Jefferson", "James Monroe"],
+        "correct_answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Which President delivered the famous 'Four Freedoms' speech?",
+        "choices": [ "Harry S. Truman", "Dwight D. Eisenhower","Franklin D. Roosevelt", "John F. Kennedy"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the first President to be impeached?",
+        "choices": ["Andrew Johnson", "Bill Clinton", "Richard Nixon", "James Buchanan"],
+        "correct_answer": "Andrew Johnson"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": ["John Adams", "Gerald Ford", "Millard Fillmore", "Lyndon B. Johnson"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the signing of the Declaration of Independence?",
+        "choices": [ "Thomas Jefferson", "John Adams","George Washington", "James Madison"],
+        "correct_answer": "John Adams"
+      },
+      {
+        "question": "Which President initiated the 'War on Poverty'?",
+        "choices": [ "Richard Nixon", "John F. Kennedy", "Lyndon B. Johnson","Gerald Ford"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the first President to be born in the state of Hawaii?",
+        "choices": [ "George W. Bush", "Barack Obama","Bill Clinton", "Ronald Reagan"],
+        "correct_answer": "Barack Obama"
+      },
+      {
+        "question": "Which President was a key figure in the establishment of the United Nations?",
+        "choices": [ "Harry S. Truman", "Dwight D. Eisenhower","Franklin D. Roosevelt", "John F. Kennedy"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the first President to resign from office?",
+        "choices": [ "Jimmy Carter", "Gerald Ford","Richard Nixon", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President is known for the 'Détente' policy with the Soviet Union?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Gerald Ford"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Who was the President during the Mexican-American War?",
+        "choices": ["Andrew Jackson", "James K. Polk", "Zachary Taylor", "Martin Van Buren"],
+        "correct_answer": "James K. Polk"
+      },
+      {
+        "question": "Which President was known for the 'Great Society' programs?",
+        "choices": ["John F. Kennedy","Lyndon B. Johnson",  "Dwight D. Eisenhower", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President served as the Chief of the Allied Military Government in occupied Germany after World War II?",
+        "choices": [ "Harry S. Truman", "John F. Kennedy","Dwight D. Eisenhower", "Lyndon B. Johnson"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the President during the Korean War?",
+        "choices": ["Harry S. Truman", "Dwight D. Eisenhower", "John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President signed the Treaty of Paris, officially ending the Revolutionary War?",
+        "choices": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
+        "correct_answer": "John Adams"
+      },
+      {
+        "question": "Who was the President during the Apollo 13 mission?",
+        "choices": ["Richard Nixon", "John F. Kennedy", "Lyndon B. Johnson", "Gerald Ford"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President was a key architect of the North American Free Trade Agreement (NAFTA)?",
+        "choices": [ "George H.W. Bush","Bill Clinton", "Ronald Reagan", "Jimmy Carter"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Who was the President during the Civil Rights Act of 1964 and the Voting Rights Act of 1965?",
+        "choices": ["Lyndon B. Johnson", "John F. Kennedy", "Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President is known for the 'Great Compromise' during the Constitutional Convention?",
+        "choices": ["James Madison", "Thomas Jefferson", "Alexander Hamilton", "Roger Sherman"],
+        "correct_answer": "Roger Sherman"
+      },
+      {
+        "question": "Who was the President during the Teapot Dome scandal?",
+        "choices": [ "Calvin Coolidge", "Herbert Hoover","Warren G. Harding", "Franklin D. Roosevelt"],
+        "correct_answer": "Warren G. Harding"
+      },
+      {
+        "question": "Which President delivered the famous 'Gettysburg Address'?",
+        "choices": ["Andrew Johnson", "Ulysses S. Grant","Abraham Lincoln",  "James Buchanan"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who was the first President to be born in the 21st century?",
+        "choices": ["George W. Bush", "Barack Obama", "Donald Trump", "Joe Biden"],
+        "correct_answer": "George W. Bush"
+      },
+      {
+        "question": "Which President was a former governor of California before becoming President?",
+        "choices": [ "George H.W. Bush", "Bill Clinton", "Ronald Reagan","Jimmy Carter"],
+        "correct_answer": "Ronald Reagan"
+      },
+      {
+        "question": "Who was the first President to be awarded the Nobel Peace Prize?",
+        "choices": ["Woodrow Wilson", "Theodore Roosevelt", "Jimmy Carter", "Barack Obama"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the creation of the Department of Homeland Security?",
+        "choices": [ "Bill Clinton", "George H.W. Bush","George W. Bush", "Barack Obama"],
+        "correct_answer": "George W. Bush"
+      },
+      {
+        "question": "Which President signed the Americans with Disabilities Act (ADA) into law?",
+        "choices": [ "Bill Clinton", "Ronald Reagan", "George H.W. Bush","Jimmy Carter"],
+        "correct_answer": "George H.W. Bush"
+      },
+      {
+        "question": "Who was the first President to be assassinated while in office?",
+        "choices": [ "James A. Garfield", "Abraham Lincoln","William McKinley", "John F. Kennedy"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Which President was a World War II general before becoming President?",
+        "choices": ["Dwight D. Eisenhower", "Harry S. Truman", "John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the President during the establishment of the National Aeronautics and Space Administration (NASA)?",
+        "choices": [ "John F. Kennedy", "Lyndon B. Johnson","Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President was the main author of the Monroe Doctrine?",
+        "choices": [ "John Quincy Adams", "Andrew Jackson","James Monroe", "Martin Van Buren"],
+        "correct_answer": "James Monroe"
+      },
+      {
+        "question": "Who was the first President to undergo impeachment proceedings in the House of Representatives?",
+        "choices": ["Bill Clinton", "Richard Nixon", "Andrew Johnson", "Donald Trump"],
+        "correct_answer": "Andrew Johnson"
+      },
+      {
+        "question": "Which President served as the only President of the Confederate States during the American Civil War?",
+        "choices": ["Abraham Lincoln", "Jefferson Davis", "Andrew Johnson", "Ulysses S. Grant"],
+        "correct_answer": "Jefferson Davis"
+      },
+      {
+        "question": "Who was the President during the signing of the North American Free Trade Agreement (NAFTA)?",
+        "choices": ["George H.W. Bush", "Bill Clinton", "Ronald Reagan", "Jimmy Carter"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President is known for the 'Peace Corps' program?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the first President to be inaugurated in Washington D.C.?",
+        "choices": ["John Adams", "James Madison", "Thomas Jefferson", "James Monroe"],
+        "correct_answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Which President signed the Civil Rights Act of 1964 into law?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the construction of the Panama Canal?",
+        "choices": [ "William Howard Taft", "Woodrow Wilson","Theodore Roosevelt", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": [ "Millard Fillmore","Gerald Ford", "John Tyler", "Chester A. Arthur"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion?",
+        "choices": ["John F. Kennedy", "Dwight D. Eisenhower", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Corollary' to the Monroe Doctrine?",
+        "choices": [ "Woodrow Wilson", "William Howard Taft","Theodore Roosevelt", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1968?",
+        "choices": [ "Richard Nixon", "John F. Kennedy", "Lyndon B. Johnson","Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was known for the 'Big Stick' diplomacy and the construction of the Panama Canal?",
+        "choices": [ "William Howard Taft","Theodore Roosevelt", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the Cuban Missile Crisis?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President was responsible for the Louisiana Purchase?",
+        "choices": [ "James Madison", "John Quincy Adams", "Thomas Jefferson","Andrew Jackson"],
+        "correct_answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Who was the first President to appear on television?",
+        "choices": [ "Dwight D. Eisenhower", "John F. Kennedy","Harry S. Truman", "Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President served as the only President of the Confederate States during the American Civil War?",
+        "choices": ["Abraham Lincoln", "Andrew Johnson", "Ulysses S. Grant", "Jefferson Davis"],
+        "correct_answer": "Jefferson Davis"
+      },
+      {
+        "question": "Who was the President during the Great Depression and implemented the New Deal?",
+        "choices": ["Franklin D. Roosevelt", "Herbert Hoover", "Harry S. Truman", "Dwight D. Eisenhower"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President signed the Civil Rights Act of 1968, also known as the Fair Housing Act?",
+        "choices": [ "Richard Nixon", "John F. Kennedy","Lyndon B. Johnson", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the first President to be impeached by the House of Representatives but acquitted by the Senate?",
+        "choices": ["Andrew Johnson", "Bill Clinton", "Richard Nixon", "Donald Trump"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President was known for the 'Great Society' programs, including Medicare and Medicaid?",
+        "choices": ["Lyndon B. Johnson", "John F. Kennedy", "Dwight D. Eisenhower", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the signing of the NAFTA agreement?",
+        "choices": ["George H.W. Bush", "Bill Clinton", "Ronald Reagan", "Jimmy Carter"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Who was the first President to be inaugurated in the 21st century?",
+        "choices": [ "Barack Obama", "Bill Clinton", "Donald Trump","George W. Bush"],
+        "correct_answer": "George W. Bush"
+      },
+      {
+        "question": "Which President served two non-consecutive terms, making him the 22nd and 24th President?",
+        "choices": ["Grover Cleveland", "Theodore Roosevelt", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Grover Cleveland"
+      },
+      {
+        "question": "Who was the President during the Tet Offensive in the Vietnam War?",
+        "choices": [ "Richard Nixon", "John F. Kennedy", "Lyndon B. Johnson","Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was known for his 'Silent Cal' nickname?",
+        "choices": [ "Warren G. Harding","Calvin Coolidge", "Herbert Hoover", "Franklin D. Roosevelt"],
+        "correct_answer": "Calvin Coolidge"
+      },
+      {
+        "question": "Who was the first President to be born outside the original 13 colonies?",
+        "choices": ["Andrew Jackson", "Abraham Lincoln", "James Monroe", "John Quincy Adams"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the President during the Suez Crisis in 1956?",
+        "choices": ["Dwight D. Eisenhower", "John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President was a former actor and served as the Governor of California before becoming President?",
+        "choices": [ "Jimmy Carter", "George H.W. Bush","Ronald Reagan", "Richard Nixon"],
+        "correct_answer": "Ronald Reagan"
+      },
+      {
+        "question": "Who was the first President to address the nation through radio broadcasts known as 'fireside chats'?",
+        "choices": [ "Herbert Hoover", "Harry S. Truman", "Franklin D. Roosevelt","Calvin Coolidge"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President was known for his 'Great Society' initiatives, including Medicare and Medicaid?",
+        "choices": [ "John F. Kennedy", "Dwight D. Eisenhower","Lyndon B. Johnson", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the first President to be born in the 20th century?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Jimmy Carter"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President was known for his 'New Deal' policies to address the Great Depression?",
+        "choices": ["Franklin D. Roosevelt", "Herbert Hoover", "Harry S. Truman", "Dwight D. Eisenhower"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the President during the Watergate scandal?",
+        "choices": ["Gerald Ford", "Jimmy Carter", "Richard Nixon", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President is known for the 'I Have a Dream' speech?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Martin Luther King Jr.", "Barack Obama"],
+        "correct_answer": "Martin Luther King Jr."
+      },
+      {
+        "question": "Who was the first President to be elected from the Democratic Party?",
+        "choices": ["Martin Van Buren", "John Quincy Adams","Andrew Jackson","James K. Polk"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Which President was in office during the construction of the Hoover Dam?",
+        "choices": ["Herbert Hoover", "Franklin D. Roosevelt", "Calvin Coolidge", "Harry S. Truman"],
+        "correct_answer": "Herbert Hoover"
+      },
+      {
+        "question": "Who was the President during the Apollo 11 moon landing?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Gerald Ford"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President signed the Emancipation Proclamation?",
+        "choices": ["Andrew Johnson", "Abraham Lincoln", "Ulysses S. Grant", "James Buchanan"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who was the President when the United States entered World War II?",
+        "choices": [ "Harry S. Truman", "Dwight D. Eisenhower","Franklin D. Roosevelt", "Woodrow Wilson"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President is known for the 'Monroe Doctrine'?",
+        "choices": ["John Quincy Adams","James Monroe","Andrew Jackson", "Martin Van Buren"],
+        "correct_answer": "James Monroe"
+      },
+      {
+        "question": "Who was the President during the Louisiana Purchase?",
+        "choices": ["James Madison", "John Quincy Adams","Thomas Jefferson",  "Andrew Jackson"],
+        "correct_answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Who was the President during the Berlin Airlift?",
+        "choices": [ "Dwight D. Eisenhower","Harry S. Truman", "John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President was known for the 'Trust-Busting' policies to break up monopolies?",
+        "choices": ["Theodore Roosevelt", "William Howard Taft", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the first President to visit China during his term?",
+        "choices": [ "Jimmy Carter", "Gerald Ford","Richard Nixon", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President is known for the 'Whiskey Rebellion' during his term?",
+        "choices": [ "John Adams", "Thomas Jefferson", "George Washington","James Madison"],
+        "correct_answer": "George Washington"
+      },
+      {
+        "question": "Who was the President during the Cuban Missile Crisis?",
+        "choices": ["Lyndon B. Johnson", "Dwight D. Eisenhower", "John F. Kennedy", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President was responsible for the establishment of the Environmental Protection Agency (EPA)?",
+        "choices": ["Richard Nixon", "Jimmy Carter", "Gerald Ford", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Who was the first President to be assassinated?",
+        "choices": ["Abraham Lincoln", "John F. Kennedy", "James A. Garfield", "William McKinley"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Which President served as the Commander-in-Chief during the War of 1812?",
+        "choices": ["Andrew Jackson", "John Quincy Adams","James Madison",  "James Monroe"],
+        "correct_answer": "James Madison"
+      },
+      {
+        "question": "Who was the President during the signing of the Treaty of Versailles, ending World War I?",
+        "choices": [ "Warren G. Harding", "Calvin Coolidge","Woodrow Wilson", "Herbert Hoover"],
+        "correct_answer": "Woodrow Wilson"
+      },
+      {
+        "question": "Which President was known for his 'Silent Cal' nickname?",
+        "choices": ["Warren G. Harding", "Herbert Hoover", "Calvin Coolidge", "Franklin D. Roosevelt"],
+        "correct_answer": "Calvin Coolidge"
+      },
+      {
+        "question": "Who was the President when Alaska and Hawaii became states?",
+        "choices": ["Dwight D. Eisenhower", "John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the first President to be born in a hospital?",
+        "choices": ["Jimmy Carter", "Gerald Ford", "Richard Nixon", "Lyndon B. Johnson"],
+        "correct_answer": "Jimmy Carter"
+      },
+      {
+        "question": "Which President is known for the 'Great Society' programs?",
+        "choices": [ "John F. Kennedy", "Dwight D. Eisenhower","Lyndon B. Johnson","Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1964?",
+        "choices": ["Lyndon B. Johnson", "John F. Kennedy", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President delivered the famous 'Four Freedoms' speech?",
+        "choices": [ "Harry S. Truman", "Dwight D. Eisenhower", "Franklin D. Roosevelt","John F. Kennedy"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the North Atlantic Treaty Organization (NATO) agreement?",
+        "choices": ["Harry S. Truman", "Dwight D. Eisenhower", "John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President is known for the 'Domino Theory' in relation to the spread of communism?",
+        "choices": [ "John F. Kennedy", "Lyndon B. Johnson", "Dwight D. Eisenhower","Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the President during the signing of the GATT (General Agreement on Tariffs and Trade)?",
+        "choices": [ "Dwight D. Eisenhower", "John F. Kennedy", "Harry S. Truman","Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President served as the Chief of the Allied Military Government in occupied Germany after World War II?",
+        "choices": [ "Harry S. Truman", "John F. Kennedy","Dwight D. Eisenhower", "Lyndon B. Johnson"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the President during the signing of the Voting Rights Act of 1965?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was nicknamed 'Old Hickory'?",
+        "choices": [ "Andrew Jackson", "Martin Van Buren","Andrew Johnson", "John Tyler"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the President responsible for the establishment of NASA?",
+        "choices": ["Dwight D. Eisenhower", "John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": ["Gerald Ford", "Millard Fillmore", "John Tyler", "Chester A. Arthur"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the Mexican-American War?",
+        "choices": ["Andrew Jackson", "James K. Polk", "Zachary Taylor", "Martin Van Buren"],
+        "correct_answer": "James K. Polk"
+      },
+      {
+        "question": "Which President delivered the famous 'Gettysburg Address'?",
+        "choices": ["Abraham Lincoln", "Andrew Johnson", "Ulysses S. Grant", "James Buchanan"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who was the first President to be impeached?",
+        "choices": ["Andrew Johnson", "Bill Clinton", "Richard Nixon", "James Buchanan"],
+        "correct_answer": "Andrew Johnson"
+      },
+      {
+        "question": "Which President served as the only President of the Confederate States during the American Civil War?",
+        "choices": ["Abraham Lincoln", "Jefferson Davis", "Andrew Johnson", "Ulysses S. Grant"],
+        "correct_answer": "Jefferson Davis"
+      },
+      {
+        "question": "Who was the President during the signing of the NAFTA agreement?",
+        "choices": ["George H.W. Bush", "Bill Clinton", "Ronald Reagan", "Jimmy Carter"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President is known for the 'Peace Corps' program?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the President during the Teapot Dome scandal?",
+        "choices": ["Warren G. Harding", "Calvin Coolidge", "Herbert Hoover", "Franklin D. Roosevelt"],
+        "correct_answer": "Warren G. Harding"
+      },
+      {
+        "question": "Which President was known for the 'Great Compromise' during the Constitutional Convention?",
+        "choices": ["James Madison", "Thomas Jefferson", "Alexander Hamilton", "Roger Sherman"],
+        "correct_answer": "Roger Sherman"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion?",
+        "choices": [ "Dwight D. Eisenhower","John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Corollary' to the Monroe Doctrine?",
+        "choices": ["Theodore Roosevelt", "Woodrow Wilson", "William Howard Taft", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1968?",
+        "choices": ["Lyndon B. Johnson", "Richard Nixon", "John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the Civil Rights Act of 1964 and the Voting Rights Act of 1965?",
+        "choices": ["John F. Kennedy", "Dwight D. Eisenhower","Lyndon B. Johnson",  "Richard Nixon"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was a key figure in the establishment of the United Nations?",
+        "choices": [ "Harry S. Truman","Franklin D. Roosevelt", "Dwight D. Eisenhower", "John F. Kennedy"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the first President to resign from office?",
+        "choices": ["Richard Nixon", "Jimmy Carter", "Gerald Ford", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Who was the President during the Berlin Airlift?",
+        "choices": [ "Dwight D. Eisenhower", "John F. Kennedy","Harry S. Truman", "Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President was known for the 'Trust-Busting' policies to break up monopolies?",
+        "choices": ["Theodore Roosevelt", "William Howard Taft", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the first President to visit China during his term?",
+        "choices": ["Richard Nixon", "Jimmy Carter", "Gerald Ford", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Which President is known for the 'Whiskey Rebellion' during his term?",
+        "choices": [ "John Adams", "Thomas Jefferson", "George Washington","James Madison"],
+        "correct_answer": "George Washington"
+      },
+      {
+        "question": "Who was the President during the Cuban Missile Crisis?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President was responsible for the establishment of the Environmental Protection Agency (EPA)?",
+        "choices": [ "Jimmy Carter", "Gerald Ford","Richard Nixon", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Who was the first President to be assassinated?",
+        "choices": [ "John F. Kennedy","Abraham Lincoln", "James A. Garfield", "William McKinley"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Which President served as the Commander-in-Chief during the War of 1812?",
+        "choices": [ "Andrew Jackson","James Madison", "John Quincy Adams", "James Monroe"],
+        "correct_answer": "James Madison"
+      },
+      {
+        "question": "Who was the President during the signing of the Treaty of Versailles, ending World War I?",
+        "choices": ["Warren G. Harding", "Calvin Coolidge","Woodrow Wilson",  "Herbert Hoover"],
+        "correct_answer": "Woodrow Wilson"
+      },
+      {
+        "question": "Which President was known for his 'Silent Cal' nickname?",
+        "choices": ["Warren G. Harding", "Herbert Hoover", "Calvin Coolidge", "Franklin D. Roosevelt"],
+        "correct_answer": "Calvin Coolidge"
+      },
+      {
+        "question": "Who was the President when Alaska and Hawaii became states?",
+        "choices": ["Dwight D. Eisenhower", "John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the first President to be born in a hospital?",
+        "choices": ["Jimmy Carter", "Gerald Ford", "Richard Nixon", "Lyndon B. Johnson"],
+        "correct_answer": "Jimmy Carter"
+      },
+      {
+        "question": "Which President is known for the 'Great Society' programs?",
+        "choices": [ "John F. Kennedy","Lyndon B. Johnson", "Dwight D. Eisenhower", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1964?",
+        "choices": [ "John F. Kennedy", "Richard Nixon","Lyndon B. Johnson", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President delivered the famous 'Four Freedoms' speech?",
+        "choices": [ "Harry S. Truman", "Dwight D. Eisenhower", "Franklin D. Roosevelt","John F. Kennedy"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the North Atlantic Treaty Organization (NATO) agreement?",
+        "choices": [ "Dwight D. Eisenhower", "Harry S. Truman","John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President is known for the 'Domino Theory' in relation to the spread of communism?",
+        "choices": [ "John F. Kennedy", "Lyndon B. Johnson","Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the President during the signing of the GATT (General Agreement on Tariffs and Trade)?",
+        "choices": ["Dwight D. Eisenhower","Harry S. Truman",  "John F. Kennedy", "Lyndon B. Johnson"],
+        "correct_answer": "Harry S. Truman"
+      },
+      {
+        "question": "Which President served as the Chief of the Allied Military Government in occupied Germany after World War II?",
+        "choices": [ "Harry S. Truman", "John F. Kennedy", "Dwight D. Eisenhower","Lyndon B. Johnson"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Who was the President during the signing of the Voting Rights Act of 1965?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was nicknamed 'Old Hickory'?",
+        "choices": [ "Andrew Jackson", "Martin Van Buren","Andrew Johnson", "John Tyler"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the President responsible for the establishment of NASA?",
+        "choices": [ "John F. Kennedy", "Lyndon B. Johnson","Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": ["Millard Fillmore", "John Tyler", "Gerald Ford", "Chester A. Arthur"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the Mexican-American War?",
+        "choices": ["Andrew Jackson", "James K. Polk", "Zachary Taylor", "Martin Van Buren"],
+        "correct_answer": "James K. Polk"
+      },
+      {
+        "question": "Which President delivered the famous 'Gettysburg Address'?",
+        "choices": [ "Andrew Johnson", "Ulysses S. Grant", "Abraham Lincoln","James Buchanan"],
+        "correct_answer": "Abraham Lincoln"
+      },
+      {
+        "question": "Who was the first President to be impeached?",
+        "choices": [ "Bill Clinton", "Richard Nixon", "James Buchanan","Andrew Johnson"],
+        "correct_answer": "Andrew Johnson"
+      },
+      {
+        "question": "Which President served as the only President of the Confederate States during the American Civil War?",
+        "choices": ["Abraham Lincoln", "Jefferson Davis", "Andrew Johnson", "Ulysses S. Grant"],
+        "correct_answer": "Jefferson Davis"
+      },
+      {
+        "question": "Who was the President during the signing of the NAFTA agreement?",
+        "choices": [ "Bill Clinton", "Ronald Reagan", "George H.W. Bush","Jimmy Carter"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President is known for the 'Peace Corps' program?",
+        "choices": [ "Lyndon B. Johnson", "Richard Nixon","John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the President during the Teapot Dome scandal?",
+        "choices": [ "Calvin Coolidge", "Herbert Hoover","Warren G. Harding", "Franklin D. Roosevelt"],
+        "correct_answer": "Warren G. Harding"
+      },
+      {
+        "question": "Which President was known for the 'Great Compromise' during the Constitutional Convention?",
+        "choices": ["Thomas Jefferson", "James Madison", "Alexander Hamilton", "Roger Sherman"],
+        "correct_answer": "Roger Sherman"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion?",
+        "choices": [ "Dwight D. Eisenhower", "Lyndon B. Johnson", "John F. Kennedy","Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Corollary' to the Monroe Doctrine?",
+        "choices": [ "Woodrow Wilson", "William Howard Taft", "Theodore Roosevelt","Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1968?",
+        "choices": [ "Richard Nixon", "John F. Kennedy","Lyndon B. Johnson", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the Civil Rights Act of 1964 and the Voting Rights Act of 1965?",
+        "choices": [ "John F. Kennedy","Lyndon B. Johnson", "Dwight D. Eisenhower", "Richard Nixon"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was a key figure in the establishment of the United Nations?",
+        "choices": [ "Harry S. Truman", "Dwight D. Eisenhower", "Franklin D. Roosevelt","John F. Kennedy"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Who was the first President to resign from office?",
+        "choices": ["Jimmy Carter", "Richard Nixon", "Gerald Ford", "Ronald Reagan"],
+        "correct_answer": "Richard Nixon"
+      },
+      {
+        "question": "Who was the first President to be born outside the original 13 colonies?",
+        "choices": ["Abraham Lincoln", "James Monroe","Andrew Jackson",  "John Quincy Adams"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the President during the Suez Crisis in 1956?",
+        "choices": [ "John F. Kennedy", "Lyndon B. Johnson", "Dwight D. Eisenhower","Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President was a former actor and served as the Governor of California before becoming President?",
+        "choices": ["Ronald Reagan", "Jimmy Carter", "George H.W. Bush", "Richard Nixon"],
+        "correct_answer": "Ronald Reagan"
+      },
+      {
+        "question": "Who was the first President to address the nation through radio broadcasts known as 'fireside chats'?",
+        "choices": [ "Herbert Hoover", "Harry S. Truman", "Franklin D. Roosevelt","Calvin Coolidge"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President was known for the 'Peace Corps' program?",
+        "choices": [ "Lyndon B. Johnson", "Richard Nixon", "John F. Kennedy","Dwight D. Eisenhower"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the President during the construction of the Panama Canal?",
+        "choices": ["Theodore Roosevelt", "William Howard Taft", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": [ "Millard Fillmore","Gerald Ford", "John Tyler", "Chester A. Arthur"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion?",
+        "choices": [ "Dwight D. Eisenhower", "John F. Kennedy","Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Corollary' to the Monroe Doctrine?",
+        "choices": ["Theodore Roosevelt", "Woodrow Wilson", "William Howard Taft", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1968?",
+        "choices": [ "Richard Nixon", "Lyndon B. Johnson","John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the Great Depression and implemented the New Deal?",
+        "choices": ["Herbert Hoover", "Harry S. Truman", "Franklin D. Roosevelt", "Dwight D. Eisenhower"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President signed the Civil Rights Act of 1968, also known as the Fair Housing Act?",
+        "choices": ["Lyndon B. Johnson", "Richard Nixon", "John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the first President to be impeached by the House of Representatives but acquitted by the Senate?",
+        "choices": ["Andrew Johnson", "Bill Clinton", "Richard Nixon", "Donald Trump"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President was known for the 'Great Society' initiatives, including Medicare and Medicaid?",
+        "choices": [ "John F. Kennedy", "Dwight D. Eisenhower","Lyndon B. Johnson", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the signing of the NAFTA agreement?",
+        "choices": [ "Bill Clinton", "Ronald Reagan","George H.W. Bush","Jimmy Carter"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Who was the first President to be inaugurated in the 21st century?",
+        "choices": ["Barack Obama","George W. Bush","Bill Clinton", "Donald Trump"],
+        "correct_answer": "George W. Bush"
+      },
+      {
+        "question": "Which President served two non-consecutive terms, making him the 22nd and 24th President?",
+        "choices": [ "Theodore Roosevelt", "Woodrow Wilson","Grover Cleveland", "Calvin Coolidge"],
+        "correct_answer": "Grover Cleveland"
+      },
+      {
+        "question": "Who was the President during the Tet Offensive in the Vietnam War?",
+        "choices": [ "Richard Nixon", "John F. Kennedy","Lyndon B. Johnson", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was known for his 'Silent Cal' nickname?",
+        "choices": [ "Warren G. Harding", "Herbert Hoover", "Calvin Coolidge","Franklin D. Roosevelt"],
+        "correct_answer": "Calvin Coolidge"
+      },
+      {
+        "question": "Who was the first President to be born outside the original 13 colonies?",
+        "choices": [ "Abraham Lincoln","Andrew Jackson", "James Monroe", "John Quincy Adams"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the President during the Suez Crisis in 1956?",
+        "choices": [ "John F. Kennedy", "Lyndon B. Johnson", "Dwight D. Eisenhower","Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President was a former actor and served as the Governor of California before becoming President?",
+        "choices": ["Ronald Reagan", "Jimmy Carter", "George H.W. Bush", "Richard Nixon"],
+        "correct_answer": "Ronald Reagan"
+      },
+      {
+        "question": "Who was the first President to address the nation through radio broadcasts known as 'fireside chats'?",
+        "choices": ["Franklin D. Roosevelt", "Herbert Hoover", "Harry S. Truman", "Calvin Coolidge"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President was known for the 'Peace Corps' program?",
+        "choices": ["Lyndon B. Johnson","John F. Kennedy", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the President during the construction of the Panama Canal?",
+        "choices": ["William Howard Taft", "Woodrow Wilson","Theodore Roosevelt","Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": ["Millard Fillmore", "John Tyler", "Chester A. Arthur","Gerald Ford"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion?",
+        "choices": ["John F. Kennedy", "Dwight D. Eisenhower", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Corollary' to the Monroe Doctrine?",
+        "choices": ["Theodore Roosevelt", "Woodrow Wilson", "William Howard Taft", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1968?",
+        "choices": [ "Richard Nixon", "John F. Kennedy", "Lyndon B. Johnson","Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the Great Depression and implemented the New Deal?",
+        "choices": ["Harry S. Truman","Franklin D. Roosevelt", "Herbert Hoover", "Dwight D. Eisenhower"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President signed the Civil Rights Act of 1968, also known as the Fair Housing Act?",
+        "choices": ["Richard Nixon","Lyndon B. Johnson", "John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the first President to be impeached by the House of Representatives but acquitted by the Senate?",
+        "choices": ["Andrew Johnson", "Bill Clinton", "Richard Nixon", "Donald Trump"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President was known for the 'Great Society' initiatives, including Medicare and Medicaid?",
+        "choices": ["Lyndon B. Johnson", "John F. Kennedy", "Dwight D. Eisenhower", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the first President to be inaugurated in the 21st century?",
+        "choices": ["Barack Obama", "Bill Clinton", "Donald Trump","George W. Bush"],
+        "correct_answer": "George W. Bush"
+      },
+      {
+        "question": "Which President served two non-consecutive terms, making him the 22nd and 24th President?",
+        "choices": ["Grover Cleveland", "Theodore Roosevelt", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Grover Cleveland"
+      },
+      {
+        "question": "Who was the President during the Tet Offensive in the Vietnam War?",
+        "choices": [ "Richard Nixon", "John F. Kennedy", "Dwight D. Eisenhower","Lyndon B. Johnson"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was known for his 'Silent Cal' nickname?",
+        "choices": ["Calvin Coolidge", "Warren G. Harding", "Herbert Hoover", "Franklin D. Roosevelt"],
+        "correct_answer": "Calvin Coolidge"
+      },
+      {
+        "question": "Who was the first President to be born outside the original 13 colonies?",
+        "choices": [ "Abraham Lincoln", "James Monroe", "John Quincy Adams","Andrew Jackson"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the President during the Suez Crisis in 1956?",
+        "choices": [ "John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon","Dwight D. Eisenhower"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President was a former actor and served as the Governor of California before becoming President?",
+        "choices": ["Jimmy Carter", "George H.W. Bush", "Richard Nixon","Ronald Reagan"],
+        "correct_answer": "Ronald Reagan"
+      },
+      {
+        "question": "Who was the first President to address the nation through radio broadcasts known as 'fireside chats'?",
+        "choices": ["Herbert Hoover", "Harry S. Truman", "Calvin Coolidge","Franklin D. Roosevelt"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President was known for the 'Peace Corps' program?",
+        "choices": [ "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower","John F. Kennedy"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the President during the construction of the Panama Canal?",
+        "choices": [ "William Howard Taft", "Woodrow Wilson", "Calvin Coolidge","Theodore Roosevelt"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": ["Gerald Ford", "Millard Fillmore", "John Tyler", "Chester A. Arthur"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion?",
+        "choices": ["John F. Kennedy", "Dwight D. Eisenhower", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Corollary' to the Monroe Doctrine?",
+        "choices": ["Theodore Roosevelt", "Woodrow Wilson", "William Howard Taft", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Who was the President during the signing of the Civil Rights Act of 1968?",
+        "choices": ["Lyndon B. Johnson", "Richard Nixon", "John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the Great Depression and implemented the New Deal?",
+        "choices": ["Franklin D. Roosevelt", "Herbert Hoover", "Harry S. Truman", "Dwight D. Eisenhower"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President signed the Civil Rights Act of 1968, also known as the Fair Housing Act?",
+        "choices": ["Lyndon B. Johnson", "Richard Nixon", "John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the first President to be impeached by the House of Representatives but acquitted by the Senate?",
+        "choices": ["Andrew Johnson", "Bill Clinton", "Richard Nixon", "Donald Trump"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Which President was known for the 'Great Society' initiatives, including Medicare and Medicaid?",
+        "choices": ["Lyndon B. Johnson", "John F. Kennedy", "Dwight D. Eisenhower", "Harry S. Truman"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Who was the President during the signing of the NAFTA agreement?",
+        "choices": ["George H.W. Bush", "Bill Clinton", "Ronald Reagan", "Jimmy Carter"],
+        "correct_answer": "Bill Clinton"
+      },
+      {
+        "question": "Who was the first President to be inaugurated in the 21st century?",
+        "choices": ["George W. Bush", "Barack Obama", "Bill Clinton", "Donald Trump"],
+        "correct_answer": "George W. Bush"
+      },
+      {
+        "question": "Which President served two non-consecutive terms, making him the 22nd and 24th President?",
+        "choices": ["Grover Cleveland", "Theodore Roosevelt", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Grover Cleveland"
+      },
+      {
+        "question": "Who was the President during the Tet Offensive in the Vietnam War?",
+        "choices": ["Lyndon B. Johnson", "Richard Nixon", "John F. Kennedy", "Dwight D. Eisenhower"],
+        "correct_answer": "Lyndon B. Johnson"
+      },
+      {
+        "question": "Which President was known for his 'Silent Cal' nickname?",
+        "choices": ["Calvin Coolidge", "Warren G. Harding", "Herbert Hoover", "Franklin D. Roosevelt"],
+        "correct_answer": "Calvin Coolidge"
+      },
+      {
+        "question": "Who was the first President to be born outside the original 13 colonies?",
+        "choices": ["Andrew Jackson", "Abraham Lincoln", "James Monroe", "John Quincy Adams"],
+        "correct_answer": "Andrew Jackson"
+      },
+      {
+        "question": "Who was the President during the Suez Crisis in 1956?",
+        "choices": ["Dwight D. Eisenhower", "John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "Dwight D. Eisenhower"
+      },
+      {
+        "question": "Which President was a former actor and served as the Governor of California before becoming President?",
+        "choices": ["Ronald Reagan", "Jimmy Carter", "George H.W. Bush", "Richard Nixon"],
+        "correct_answer": "Ronald Reagan"
+      },
+      {
+        "question": "Who was the first President to address the nation through radio broadcasts known as 'fireside chats'?",
+        "choices": ["Franklin D. Roosevelt", "Herbert Hoover", "Harry S. Truman", "Calvin Coolidge"],
+        "correct_answer": "Franklin D. Roosevelt"
+      },
+      {
+        "question": "Which President was known for the 'Peace Corps' program?",
+        "choices": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight D. Eisenhower"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Who was the President during the construction of the Panama Canal?",
+        "choices": ["Theodore Roosevelt", "William Howard Taft", "Woodrow Wilson", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      },
+      {
+        "question": "Which President served as both Vice President and President without being elected to either office?",
+        "choices": ["Gerald Ford", "Millard Fillmore", "John Tyler", "Chester A. Arthur"],
+        "correct_answer": "Gerald Ford"
+      },
+      {
+        "question": "Who was the President during the Bay of Pigs invasion?",
+        "choices": ["John F. Kennedy", "Dwight D. Eisenhower", "Lyndon B. Johnson", "Richard Nixon"],
+        "correct_answer": "John F. Kennedy"
+      },
+      {
+        "question": "Which President is known for the 'Corollary' to the Monroe Doctrine?",
+        "choices": ["Theodore Roosevelt", "Woodrow Wilson", "William Howard Taft", "Calvin Coolidge"],
+        "correct_answer": "Theodore Roosevelt"
+      }
+    ]
+  }
